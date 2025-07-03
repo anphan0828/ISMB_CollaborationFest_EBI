@@ -14,7 +14,7 @@ The emergence of generative AI and large language models (LLMs) presents new opp
 Learn how to manually assign [Gene Ontology terms](https://geneontology.org/docs/go-annotations/#standard-go-annotations) or develop innovative approaches using LLM tools to enhance the curation workflow, enabling efficient and accurate extraction of experimental data from scientific literature. Target outputs include:
 
 *  Gene Ontology (GO) terms
-*  Scientific summaries highlighting key findings. Example summary can be found in `literature_summary.txt` file in this repository.
+*  Scientific summaries highlighting key findings. Example summary can be found in `literature_summary.md` file in this repository.
 *  Experimental data in UniProt line-type format covering protein function, catalytic activity, subcellular location, and protein-protein interactions. Example format can be found in `example_uniprot.txt` file in this repository.
 
 ## Dataset
