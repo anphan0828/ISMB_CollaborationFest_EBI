@@ -1,0 +1,48 @@
+Experimental data in line-type UniProt format, example for human RecQ4 (O94761)
+
+UniProt Accession: O94761
+
+UniProt ID: RECQ4_HUMAN
+
+Recommended Protein Name: ATP-dependent DNA helicase Q4
+Alternative Protein Name: DNA 3'-5' helicase RecQ4
+
+Gene Name: RECQL4, Synonym: RECQ4
+
+Organism: Homo Sapiens (Human)
+
+Function: An ATP-dependent DNA helicase which unwinds dsDNA with a 3'-overhang in a 3'-5' direction (PubMed:28653661). Does not unwind more than 18 bp of dsDNA (PubMed:28653661). The N-terminal domain (residues 1-54) binds DNA Y-shaped DNA better than ss- or dsDNA (PubMed:22730300).
+The core helicase domain binds ssDNA (PubMed:22730300, PubMed:28653661).
+
+Catalytic activity: 
+Reaction=Couples ATP hydrolysis with the unwinding of duplex DNA by translocating in the 3'-5' direction. (PubMed:28653661)
+EC:5.6.2.4 
+Rhea:13065 Reaction=ATP + H2O = ADP + phosphate + H(+)
+
+Cofactor: Zn2+ (PubMed:28653661)
+Note: Binds a Zn2+ ion per subunit. (PubMed:28653661)
+
+Subcellular Location: Nucleus (PubMed:10552928), Cytoplasm (PubMed:15317757)
+
+Subunit (Protein-Protein Interactions):
+Interacts with UBR1 and UBR2 (PubMed:15317757).
+Interacts with MCM10; this interaction regulates RECQL4 unwinding activity (PubMed:19696745).
+Interacts (via residues 1-54) with TOPBP1 (PubMed:22730300).
+
+Involvement in disease: 
+Disease: Baller-Gerold syndrome (BGS) [MIM:218600]
+Disease: Rothmund-Thomson syndrome 2 (RTS2) [MIM:268400]
+Disease: RAPADILINO syndrome (RAPADILINOS) [MIM:266280]
+
+Variant      640     642 LTA -> P (in <RTS2>) [dbSNP:rs786200890] (PubMed:20503338)
+Variant     1021    1021 R -> W (in <BGS>) [dbSNP:rs137853232] (PubMed:15964893)
+
+Mutagenesis     618     618 R -> L: Loss of helicase activity, 20% ATPase activity (PubMed:28653661)
+Mutagenesis     944    1032 Missing: About 50% reduction in helicase velocity (PubMed:28653661)
+Mutagenesis     1117    1208 Missing: Decreased helicase activity 5-fold, decreased ssDNA-binding (PubMed:28653661)
+
+Modifies Residue (PTM)     27      27 Phosphoserine (PubMed:23186163)
+Modifies Residue (PTM)     178     178 Phosphoserine (PubMed:23186163)
+
+Other examples of UniProt line-type categories include:
+Domain, Tissue Expression, Biophysicochemical Properties, Activity Regulation, Developmental Stage Expression, Properties, Post-translational Modification Comment, Description Phenotype
