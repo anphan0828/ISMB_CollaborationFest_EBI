@@ -18,7 +18,7 @@ Learn how to manually assign [Gene Ontology terms](https://geneontology.org/docs
 *  Experimental data in UniProt line-type format covering protein function, catalytic activity, subcellular location, and protein-protein interactions. Example format can be found in `example_uniprot.txt` file in this repository.
 
 ## Dataset
-Participants will receive a curated dataset of publications submitted by the UniProt community.
+Participants will receive a curated dataset of publications submitted by the UniProt community. These publications have not been reviewed by any of the UniProt curators yet, thus providing new data for the participants to work with. The spreadsheet contains the PMIDs, the associated UniProt accession and, for some PMIDs, gene name and a short description of the scientific findings. The dataset can be found [here](https://docs.google.com/spreadsheets/d/1USyUtVgPEH8Ya8GGlfr7Ywup2DRApgSd_BgDz5R1Kjs/edit?usp=sharing). 
 
 ## Suggested Approach
 Consider exploring these approaches to enhance knowledge extraction:
